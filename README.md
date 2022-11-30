@@ -1,13 +1,13 @@
 # DATASET EXPLANATION ON MARVEL CHARACTERS
 
-Program developed by :
+## Program developed by :
 
          Yuvadarshini S (212221230126)
          Mirudhula D (212221230060)
          Dharshini D S (212221230022)
 
 
-# BIG DATA ANALYTICS:
+## BIG DATA ANALYTICS:
 
 
          This article utilizes statistical methods, data mining techniques and Python in order to create a prediction model for superhero characters alignment.
@@ -18,7 +18,7 @@ Program developed by :
          
          This outcome is then tested and debated to describe the different results.
          
-## Code:
+## Program:
 ```
 import pandas as pd
 import numpy as np
@@ -117,35 +117,35 @@ sns.kdeplot(x="Year", data = df,hue='ALIVE')
 ```
 ## Output:
 
-![Project](1.jpeg)
-![Project](2.jpeg)
-![Project](3.jpeg)
-![Project](4.jpeg)
-![Project](5.jpeg)
-![Project](6.jpeg)
-![Project](7.jpeg)
-![Project](8.jpeg)
-![Project](9.jpeg)
-![Project](10.jpeg)
-![Project](11.jpeg)
-![Project](12.jpeg)
-![Project](13.jpeg)
-![Project](14.jpeg)
-![Project](15.jpeg)
-![Project](16.jpeg)
-![Project](17.jpeg)
-![Project](18.jpeg)
-![Project](19.jpeg)
-![Project](20.jpeg)
-![Project](21.jpeg)
-![Project](22.jpeg)
-![Project](23.jpeg)
-![Project](24.jpeg)
-![Project](25.jpeg)
-![Project](26.jpeg)
-![Project](27.jpeg)
+![Project](1.jpg)
+![Project](2.jpg)
+![Project](3.jpg)
+![Project](4.jpg)
+![Project](5.jpg)
+![Project](6.jpg)
+![Project](7.jpg)
+![Project](8.jpg)
+![Project](9.jpg)
+![Project](10.jpg)
+![Project](11.jpg)
+![Project](12.jpg)
+![Project](13.jpg)
+![Project](14.jpg)
+![Project](15.jpg)
+![Project](16.jpg)
+![Project](17.jpg)
+![Project](18.jpg)
+![Project](19.jpg)
+![Project](20.jpg)
+![Project](21.jpg)
+![Project](22.jpg)
+![Project](23.jpg)
+![Project](24.jpg)
+![Project](25.jpg)
+![Project](26.jpg)
+![Project](27.jpg)
 
-## CONCLUSION:
+## Conclusion:
 Data science is employed in many spheres of human life. 
 The value of the algorithms and their efficiency can hardly be underestimated.
 The use of data science in the field of media and entertainment has become an art.
