@@ -1,4 +1,4 @@
-# Mini-Project:
+# DATASET EXPLANATION ON MARVEL CHARACTERS
 
 Program developed by :
 
@@ -116,18 +116,40 @@ sns.histplot(data=df,x ='ALIVE',hue='ALIGN')
 sns.kdeplot(x="Year", data = df,hue='ALIVE')
 ```
 ## Output:
-## Dataset:
 
-## Head:
+![Project](1.jpeg)
+![Project](2.jpeg)
+![Project](3.jpeg)
+![Project](4.jpeg)
+![Project](5.jpeg)
+![Project](6.jpeg)
+![Project](7.jpeg)
+![Project](8.jpeg)
+![Project](9.jpeg)
+![Project](10.jpeg)
+![Project](11.jpeg)
+![Project](12.jpeg)
+![Project](13.jpeg)
+![Project](14.jpeg)
+![Project](15.jpeg)
+![Project](16.jpeg)
+![Project](17.jpeg)
+![Project](18.jpeg)
+![Project](19.jpeg)
+![Project](20.jpeg)
+![Project](21.jpeg)
+![Project](22.jpeg)
+![Project](23.jpeg)
+![Project](24.jpeg)
+![Project](25.jpeg)
+![Project](26.jpeg)
+![Project](27.jpeg)
 
-## Info:
-
-## Isnull:
-
-## Shape:
-
-## Describe:
-
-## Boxplot:
-
+## CONCLUSION:
+Data science is employed in many spheres of human life. 
+The value of the algorithms and their efficiency can hardly be underestimated.
+The use of data science in the field of media and entertainment has become an art.
+It is no longer enough just to spread news, rumors or offer entertaining activities.
+A company should reach the interaction with a customer, evoke feelings and emotions and make a desirable impact. 
+The ability of data science to collect, process, analyze, store, provide recommendations is a huge benefit for the media and the entertainers.
 
